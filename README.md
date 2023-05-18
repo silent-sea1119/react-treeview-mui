@@ -79,7 +79,7 @@ const listItems = [
 ...
 ]
 ```
-**Why use an Array?**
+**Why use Array?**
 
 First off, it's [faster](https://medium.com/@fiffty/things-i-learned-while-trying-to-make-a-fast-treeview-in-react-e3b23cd4ab74#.7pw9t9943). But unless you're rendering hundreds and hundreds of list items, speed wouldn't be your concern.
 
